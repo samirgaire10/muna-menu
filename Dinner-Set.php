@@ -137,7 +137,7 @@
                 <button class="language-button" onclick="location.href='index.php'">Language</button>
             </div>
             <div class="tab-footer">
-                <p>&copy; 2023 samirgaire10</p>
+                <p>&copy;  2024 ガイレ サミル</p>
             </div>
         </div>
 
