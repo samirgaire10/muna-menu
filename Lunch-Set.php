@@ -199,21 +199,24 @@
                     <p style="font-size: 16px; color: #666;">A fresh mix of greens topped with grilled chicken, cherry
                         tomatoes, and a zesty vinaigrette</p>
                     <h4 style="font-size: 20px; font-weight: bold; color: #4CAF50;">$8.99</h4>
-                </div><div
+                </div>
+                <div
                     style="width: 250px; background-color: #f7f7f7; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
                     <img src="lunch-image.jpg" alt="Lunch" width="100%" height="150px" style="border-radius: 10px;">
                     <h3 style="font-size: 24px; font-weight: bold; margin-top: 10px;">Grilled Chicken Salad</h3>
                     <p style="font-size: 16px; color: #666;">A fresh mix of greens topped with grilled chicken, cherry
                         tomatoes, and a zesty vinaigrette</p>
                     <h4 style="font-size: 20px; font-weight: bold; color: #4CAF50;">$8.99</h4>
-                </div><div
+                </div>
+                <div
                     style="width: 250px; background-color: #f7f7f7; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
                     <img src="lunch-image.jpg" alt="Lunch" width="100%" height="150px" style="border-radius: 10px;">
                     <h3 style="font-size: 24px; font-weight: bold; margin-top: 10px;">Grilled Chicken Salad</h3>
                     <p style="font-size: 16px; color: #666;">A fresh mix of greens topped with grilled chicken, cherry
                         tomatoes, and a zesty vinaigrette</p>
                     <h4 style="font-size: 20px; font-weight: bold; color: #4CAF50;">$8.99</h4>
-                </div><div
+                </div>
+                <div
                     style="width: 250px; background-color: #f7f7f7; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
                     <img src="lunch-image.jpg" alt="Lunch" width="100%" height="150px" style="border-radius: 10px;">
                     <h3 style="font-size: 24px; font-weight: bold; margin-top: 10px;">Grilled Chicken Salad</h3>
